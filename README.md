@@ -1,0 +1,1 @@
+This is a template of simple implementation of useContext hook in React.
